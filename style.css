@@ -1,0 +1,49 @@
+ style.css
+
+ header {
+    background-color: teal;
+    text-align: center;
+}
+
+body {
+    background-image: url("");
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(26, 249, 5);
+    font-size: 3em;
+}  
+  
+p {
+    color: rgb(58, 168, 91);
+    font-size: 1.2em;
+}
+
+h2 {
+    color: rgb(183, 180, 18);
+    text-decoration: none;
+}
+dt {
+    color: rgb(31, 19, 191);
+    font-weight: bold;
+}
+
+dd {
+    color: rgba(243, 15, 243, 0.823);
+    font-size: 1.1em;
+}  
+
+main {
+    padding: 20px;
+    background-color: rgba(179, 234, 15, 0);
+}
+section {
+    background: fixed;
+    margin: auto;
+}
+footer {   
+    background-color: rgb(245, 19, 170);
+    text-align: center;
+    padding: 15px;
+}
